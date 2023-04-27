@@ -1,0 +1,13 @@
+#click{
+background-color: rgb(39, 224, 234);
+}
+button{
+    width: 400px;
+    align-self: center;
+    background-color: rgb(241, 100, 178);
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
